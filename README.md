@@ -1,6 +1,6 @@
 Privacy Policy
 
-Last updated: [Date]
+Last updated: 01.03.2024
 
 Phraseon is committed to protecting the privacy of our users. This Privacy Policy explains how we collect, use, and share information about you when you use our App.
 
