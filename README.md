@@ -1,4 +1,4 @@
-### Last updated: 01.03.2024
+### General
 
 Phraseon is committed to protecting the privacy of our users. This Privacy Policy explains how we collect, use, and share information about you when you use our App.
 
@@ -30,6 +30,7 @@ We take the security of your data seriously and implement reasonable measures to
 
 ### Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+###### Last updated: 10.03.2024
 
 ### Terms of Service & EULA
 Standard Apple Terms of Use (EULA)
@@ -37,4 +38,4 @@ Standard Apple Terms of Use (EULA)
 [EULA Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ### Contact Us
-If you have any questions about this Privacy Policy or our terms and conditions, please contact us at robert.adamczyk.appstore@gmail.com.
+If you have any questions about this Privacy Policy or our terms and conditions, please contact us at [robert.adamczyk.appstore@gmail.com](mailto:robert.adamczyk.appstore@gmail.com).
