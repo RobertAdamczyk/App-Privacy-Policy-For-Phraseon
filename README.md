@@ -3,8 +3,8 @@ Last updated: 01.03.2024
 
 Phraseon is committed to protecting the privacy of our users. This Privacy Policy explains how we collect, use, and share information about you when you use our App.
 
-Information We Collect\n
-We collect the following data types that are linked to your identity:\n\n
+Information We Collect
+We collect the following data types that are linked to your identity:
 
 Contact Info: We collect your name and email address to provide app functionality and for identification purposes.
 User Content: We collect photos or videos that you provide while using our Service for app functionality.
