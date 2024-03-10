@@ -33,7 +33,7 @@ We take the security of your data seriously and implement reasonable measures to
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 ### Terms of Service & EULA
-By using our App, you are agreeing to our Terms of Service and the Standard Apple Terms of Use (EULA). Our EULA Agreement specifies the terms under which you are permitted to use our App and outlines your rights and obligations. For detailed information on our terms and conditions, please refer to the EULA Agreement available within the App.
+By using our App, you are agreeing to our Terms of Service and the [Standard Apple Terms of Use (EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/). Our EULA Agreement specifies the terms under which you are permitted to use our App and outlines your rights and obligations. For detailed information on our terms and conditions, please refer to the EULA Agreement available within the App.
 
 ### Contact Us
 If you have any questions about this Privacy Policy or our terms and conditions, please contact us at robert.adamczyk.appstore@gmail.com.
