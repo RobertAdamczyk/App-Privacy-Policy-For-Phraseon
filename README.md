@@ -34,6 +34,7 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 ### Terms of Service & EULA
 Standard Apple Terms of Use (EULA)
+
 [EULA Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ### Contact Us
